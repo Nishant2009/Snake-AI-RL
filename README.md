@@ -83,7 +83,7 @@ Want to help improve the AI snake? 🧠 Fork this repo & submit a PR! 🚀
 
 ## 🏆 Credits  
 
-Developed by **[Your Name]** 👨‍💻 | Inspired by **Deep Q-Learning** in Game AI  
+Developed by **Nishant Pratap Savita** 👨‍💻 | Inspired by **Deep Q-Learning** in Game AI  
 
 ---
 
